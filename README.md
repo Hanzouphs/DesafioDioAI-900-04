@@ -1,4 +1,4 @@
-# Processo para trabalhar com Explore um índice do Azure AI Search (UI)
+# Processo para trabalhar com índice do Azure AI Search (UI)
 
 Para utilizar o Azure Machine Learning, foi necessário aprovisionar um espaço de trabalho do Azure Machine Learning na subscrição do Azure. Depois, você foi possível usar o estúdio Azure Machine Learning para trabalhar com os recursos do workspace
 
